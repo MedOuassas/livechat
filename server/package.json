@@ -1,0 +1,24 @@
+{
+  "name": "livechat",
+  "version": "1.0.0",
+  "description": "Livechat\u001b[D\u001b[D\u001b[D\u001b[D chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "livechat\u001b[D\u001b[D\u001b[D\u001b[D",
+    "chat"
+  ],
+  "author": "MedOuassas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
